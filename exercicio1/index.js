@@ -6,5 +6,9 @@ while (numero === numero<0 || isNaN(numero) || (numero) < 0) {
   numero = prompt("numero invalido. Por favor digite um numero possitivo:");
 }
 
+//O comando while em programação serve para criar um laço de repetição, 
+//que executa um bloco de código repetidamente enquanto 
+//uma condição for verdadeira. A condição é verificada antes 
+//de cada execução do bloco de código. 
 
 alert("numero valido: " + numero);
